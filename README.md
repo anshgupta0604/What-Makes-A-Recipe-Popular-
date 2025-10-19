@@ -2,6 +2,7 @@
 ### BA780 Final Project
 
 **Team Members:**
+- Ansh Gupta
 - Hamza Tariq
 - Zixiao Jiao
 - Zixuan Zhu
